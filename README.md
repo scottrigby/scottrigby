@@ -1,6 +1,6 @@
-## Hi, I'm Scott 🧑‍💻
+### Hi, I'm Scott 🧑‍💻
 
-![cattyping](https://github.com/scottrigby/scottrigby/assets/407675/7c2d20ad-d374-4516-abb0-928591d3df58)
+![1606678_12018](https://github.com/scottrigby/scottrigby/assets/407675/008d6f26-fb36-4f95-bbd6-25f60cddb261)
 
 ### Work things
 - Actively seeking a new role

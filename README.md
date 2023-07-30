@@ -1,9 +1,7 @@
 ## Hi, I'm Scott 👋🧑‍🎤🪩
 
-Artist, engineer & dad. Collaborating on a different kind of world. Interested in collective art, activism, therapy, and open-source nerdy stuff.
-
 ### Work things
-- 👀 Actively seeking new role
+- 👀 Actively seeking a new role
 - 💖 Former @weaveworks, @codecademy, NBCUniversal
 - 💼 Check out my [Resume](https://docs.google.com/document/d/1DW6DglPUXgqB_x09xFo25B4uo7bxMxVe9I3bY5eHcr4/edit?usp=sharing) and some [technical content samples](https://docs.google.com/document/d/1MgSbKdB3dI4lWlzpeg3ON4kFpM8UY60892qhmXKF-Uo/edit?usp=sharing)
 

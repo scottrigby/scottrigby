@@ -1,8 +1,11 @@
-## Hi, I'm Scott 👋🧑‍🎤🪩
+## Hi, I'm Scott 🧑‍💻
+
+![cattyping](https://github.com/scottrigby/scottrigby/assets/407675/7c2d20ad-d374-4516-abb0-928591d3df58)
+
 
 ### Work things
 - 👀 Actively seeking a new role
-- 💖 Former @weaveworks, @codecademy, NBCUniversal
+- 💖 Former [@weaveworks](https://www.weave.works/), [@codecademy](https://www.codecademy.com/), [NBCUniversal](https://www.nbcuniversal.com/)
 - 💼 Check out my [Resume](https://docs.google.com/document/d/1DW6DglPUXgqB_x09xFo25B4uo7bxMxVe9I3bY5eHcr4/edit?usp=sharing) and some [technical content samples](https://docs.google.com/document/d/1MgSbKdB3dI4lWlzpeg3ON4kFpM8UY60892qhmXKF-Uo/edit?usp=sharing)
 
 ### Linux Foundation things

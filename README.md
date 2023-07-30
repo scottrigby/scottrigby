@@ -16,7 +16,7 @@
 - Event organizer ([GitOpsCon](https://events.linuxfoundation.org/cdcon-gitopscon/), [NYC Kubernetes meetup](https://www.meetup.com/new-york-kubernetes-meetup/))
 - Certification developer ([CKAD](https://training.linuxfoundation.org/certification/certified-kubernetes-application-developer-ckad/) - Certified Kubernetes Application Developer, [CGOA](https://training.linuxfoundation.org/certification/certified-gitops-associate-cgoa/) - Certified GitOps Associate)
 
-### Art
+### Art things
 - Social experiments and productive mischief, open to new collaborations
 - Co-founded [Basekamp](HTTP://basekamp.com) art and research group in 1998
 - Co-created [Plausible Artworlds](https://www.plausibleartworlds.org/) massively collaborative international network

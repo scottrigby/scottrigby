@@ -12,7 +12,7 @@ Collaboration is my greatest asset; seeing individuals work well together makes 
 <img align="right" src="https://github.com/scottrigby/scottrigby/assets/407675/64107d2f-c797-4ea6-98a6-0d85f2a93e0e">
 
 ### Work things
-- Principal engineer, Tech lead, DevOps engineer, Developer Experience
+- Principal engineer, Tech lead, DevOps engineer, Developer Experience, what's next?
 - Former [@weaveworks](https://www.weave.works/), [@codecademy](https://www.codecademy.com/), [NBCUniversal](https://www.nbcuniversal.com/)
 - Check out my [Resume](https://docs.google.com/document/d/1DW6DglPUXgqB_x09xFo25B4uo7bxMxVe9I3bY5eHcr4/edit?usp=sharing) and some [technical content samples](https://docs.google.com/document/d/1MgSbKdB3dI4lWlzpeg3ON4kFpM8UY60892qhmXKF-Uo/edit?usp=sharing)
 

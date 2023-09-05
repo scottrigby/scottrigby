@@ -6,7 +6,7 @@ Collaboration is my greatest asset; seeing individuals work well together makes 
 
 <!-- ![messagif-meow2](https://github.com/scottrigby/scottrigby/assets/407675/64107d2f-c797-4ea6-98a6-0d85f2a93e0e) -->
 
-<code>hire me meow? how bout meow?</code>
+<code>Ready to start right meow</code>
 
 ![1606678_12018](https://github.com/scottrigby/scottrigby/assets/407675/008d6f26-fb36-4f95-bbd6-25f60cddb261)
 <img align="right" src="https://github.com/scottrigby/scottrigby/assets/407675/64107d2f-c797-4ea6-98a6-0d85f2a93e0e">

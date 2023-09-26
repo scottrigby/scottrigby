@@ -3,13 +3,11 @@
 Collaboration is my greatest asset; seeing individuals work well together makes me happy. I strive to smooth the path for people to achieve their highest potential, succeed as a team, and feel proud of collective efforts.
 
 ### Actively seeking a new role 📣
-
-<!-- ![messagif-meow2](https://github.com/scottrigby/scottrigby/assets/407675/64107d2f-c797-4ea6-98a6-0d85f2a93e0e) -->
-
-<code>Ready to start right meow</code>
+<!-- ![reddy2startmeow](https://github.com/scottrigby/scottrigby/assets/407675/f722a625-c6dd-447a-9dc0-27c49f03f114) -->
 
 ![1606678_12018](https://github.com/scottrigby/scottrigby/assets/407675/008d6f26-fb36-4f95-bbd6-25f60cddb261)
-<img align="right" src="https://github.com/scottrigby/scottrigby/assets/407675/64107d2f-c797-4ea6-98a6-0d85f2a93e0e">
+<img align="right" src="https://github.com/scottrigby/scottrigby/assets/407675/f722a625-c6dd-447a-9dc0-27c49f03f114">
+<br clear="right"/>
 
 ### Work things
 - Principal engineer, Tech lead, DevOps engineer, Developer Experience, what's next?

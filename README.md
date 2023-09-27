@@ -1,6 +1,6 @@
 ### Hi, I'm Scott 🧑‍💻
 
-Collaboration is my greatest asset; seeing individuals work well together makes me happy. I strive to smooth the path for people to achieve their highest potential, succeed as a team, and feel proud of collective efforts.
+My strongest areas are collaboration, communication, and community engagement. It's fulfilling to help solve real-world problems using open-source tools and forward-thinking projects. I strive to lead by example, smooth the path for people to succeed as a team, and feel proud of our collective efforts.
 
 ### Actively seeking a new role 📣
 <!-- ![reddy2startmeow](https://github.com/scottrigby/scottrigby/assets/407675/f722a625-c6dd-447a-9dc0-27c49f03f114) -->

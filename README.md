@@ -19,7 +19,7 @@ Collaboration is my greatest asset; seeing individuals work well together makes 
 - Project maintainer ([Helm](https://helm.sh/), [Flux](https://fluxcd.io/), [OpenGitOps](https://opengitops.dev/))
 - Working Group chair ([GitOps WG](https://github.com/cncf/tag-app-delivery/tree/main/gitops-wg))
 - Event organizer ([GitOpsCon](https://events.linuxfoundation.org/cdcon-gitopscon/), [NYC Kubernetes meetup](https://www.meetup.com/new-york-kubernetes-meetup/))
-- Certification developer ([CKAD](https://training.linuxfoundation.org/certification/certified-kubernetes-application-developer-ckad/) - Certified Kubernetes Application Developer, [CGOA](https://training.linuxfoundation.org/certification/certified-gitops-associate-cgoa/) - Certified GitOps Associate)
+- Subject Matter Expert for Linux Foundation Certifications ([CKAD](https://training.linuxfoundation.org/certification/certified-kubernetes-application-developer-ckad/) - Certified Kubernetes Application Developer, [CGOA](https://training.linuxfoundation.org/certification/certified-gitops-associate-cgoa/) - Certified GitOps Associate)
 
 ### Art things
 - Social experiments and productive mischief, open to new collaborations

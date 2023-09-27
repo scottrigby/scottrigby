@@ -1,8 +1,8 @@
-### Hi, I'm Scott 🧑‍💻
+### Hi, I'm Scott
 
 My strongest areas are collaboration, communication, and community engagement. It's fulfilling to help solve real-world problems using open-source tools and forward-thinking projects. I strive to lead by example, smooth the path for people to succeed as a team, and feel proud of our collective efforts.
 
-### Actively seeking a new role 📣
+### Actively seeking a new role
 <!-- ![reddy2startmeow](https://github.com/scottrigby/scottrigby/assets/407675/f722a625-c6dd-447a-9dc0-27c49f03f114) -->
 
 ![1606678_12018](https://github.com/scottrigby/scottrigby/assets/407675/008d6f26-fb36-4f95-bbd6-25f60cddb261)

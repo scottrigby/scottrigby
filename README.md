@@ -3,10 +3,13 @@
 My strongest areas are collaboration, communication, and community engagement. It's fulfilling to help solve real-world problems using open-source tools and forward-thinking projects. I strive to lead by example, smooth the path for people to succeed as a team, and feel proud of our collective efforts.
 
 ### Actively seeking a new role
-<!-- ![reddy2startmeow](https://github.com/scottrigby/scottrigby/assets/407675/f722a625-c6dd-447a-9dc0-27c49f03f114) -->
+<!--
+Keep README image upload in GH user assets to allow use in plain HTML IMG tag below, needed to right-align.
+![reddy2startmeow](https://github.com/scottrigby/scottrigby/assets/407675/f722a625-c6dd-447a-9dc0-27c49f03f114)
+-->
 
-![1606678_12018](https://github.com/scottrigby/scottrigby/assets/407675/008d6f26-fb36-4f95-bbd6-25f60cddb261)
-<img align="right" src="https://github.com/scottrigby/scottrigby/assets/407675/f722a625-c6dd-447a-9dc0-27c49f03f114">
+![Cat typing](https://github.com/scottrigby/scottrigby/assets/407675/008d6f26-fb36-4f95-bbd6-25f60cddb261 "Cat typing")
+<img align="right" src="https://github.com/scottrigby/scottrigby/assets/407675/f722a625-c6dd-447a-9dc0-27c49f03f114" alt="REDDY 2 START RITE MEOW" title="REDDY 2 START RITE MEOW">
 <br clear="right"/>
 
 ### Work

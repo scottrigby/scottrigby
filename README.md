@@ -14,7 +14,7 @@ Keep README image upload in GH user assets to allow use in plain HTML IMG tag be
 
 ### Work
 - Former Developer Experience [@weaveworks](https://www.weave.works/), DevOps [@codecademy](https://www.codecademy.com/), Principal Engineer & Technical Team Lead [@NBCUniversal](https://www.nbcuniversal.com/). What's next?
-- Check out my [Resume](https://docs.google.com/document/d/1DW6DglPUXgqB_x09xFo25B4uo7bxMxVe9I3bY5eHcr4/edit?usp=sharing) and some [technical content samples](https://docs.google.com/document/d/1MgSbKdB3dI4lWlzpeg3ON4kFpM8UY60892qhmXKF-Uo/edit?usp=sharing)
+- Check out my [resume](https://docs.google.com/document/d/1DW6DglPUXgqB_x09xFo25B4uo7bxMxVe9I3bY5eHcr4/edit?usp=sharing), a list of [talks with links](https://docs.google.com/document/d/1RvBPFa_3CRi0DeOFlU1GNOzHqmn1NJ5jgA3D-tN4cE0/edit?usp=sharing), and some [technical content samples](https://docs.google.com/document/d/1MgSbKdB3dI4lWlzpeg3ON4kFpM8UY60892qhmXKF-Uo/edit?usp=sharing)
 
 ### Linux Foundation
 - CNCF [Cloud Native Ambassador](https://www.cncf.io/people/ambassadors/)

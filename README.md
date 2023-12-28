@@ -30,7 +30,7 @@ Keep README image upload in GH user assets to allow use in plain HTML IMG tag be
 - Co-created [Utopia School](https://www.facebook.com/UtopiaSchool/) studying failed and successful utopian projects and working towards new ones
 
 ### Contact
-- Say hi on [LinkedIn](https://www.linkedin.com/in/scottrigby/), [Twitter](https://twitter.com/r6by), [Discord](https://discord.com/users/707649655483269130), or email <scott@r6by.com>
+- Say hi on [LinkedIn](https://www.linkedin.com/in/scottrigby/), [Twitter](https://twitter.com/r6by), [Discord](https://discord.com/users/707649655483269130), [CNCF Slack](https://cloud-native.slack.com/team/U87S2849H), or email <scott@r6by.com>
 <!--
 **scottrigby/scottrigby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

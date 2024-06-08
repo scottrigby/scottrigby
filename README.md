@@ -20,7 +20,7 @@ Keep README image upload in GH user assets to allow use in plain HTML IMG tag be
 - CNCF [Cloud Native Ambassador](https://www.cncf.io/people/ambassadors/)
 - Project maintainer ([Helm](https://helm.sh/), [Flux](https://fluxcd.io/), [OpenGitOps](https://opengitops.dev/))
 - Working Group chair ([GitOps WG](https://github.com/cncf/tag-app-delivery/tree/main/gitops-wg))
-- Event organizer ([GitOpsCon](https://events.linuxfoundation.org/cdcon-gitopscon/), [NYC Kubernetes meetup](https://www.meetup.com/new-york-kubernetes-meetup/))
+- Event organizer ([GitOpsCon](https://events.linuxfoundation.org/cdcon-gitopscon/), [NYC Kubernetes meetup](https://www.meetup.com/new-york-kubernetes-meetup/), [KCD New York](https://community.cncf.io/events/details/cncf-kcd-new-york-presents-kcd-new-york-2024/))
 - Subject Matter Expert for Linux Foundation Certifications ([CKAD](https://training.linuxfoundation.org/certification/certified-kubernetes-application-developer-ckad/) - Certified Kubernetes Application Developer, [CGOA](https://training.linuxfoundation.org/certification/certified-gitops-associate-cgoa/) - Certified GitOps Associate)
 
 ### Art

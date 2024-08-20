@@ -2,19 +2,19 @@
 
 I focus on collaboration, communication, and community engagement. It's fulfilling to help solve real-world problems using open-source tools and forward-thinking projects. I strive to lead by example, smooth the path for people to succeed as a team, and feel proud of our collective efforts.
 
-### Actively seeking a new role
-<!--
-Keep README image upload in GH user assets to allow use in plain HTML IMG tag below, needed to right-align.
-![reddy2startmeow](https://github.com/scottrigby/scottrigby/assets/407675/f722a625-c6dd-447a-9dc0-27c49f03f114)
--->
+### News
+🛰️🌎💻 Big update: I'm thrilled to announce that I’m joining Navteca as a Senior Cloud Solution Architect at NASA Goddard Space Flight Center! In this role, I’ll be helping to manage NASA’s Science Cloud—a vital part of their Open Science initiative.
 
-![Cat typing](https://github.com/scottrigby/scottrigby/assets/407675/008d6f26-fb36-4f95-bbd6-25f60cddb261 "Cat typing")
-<img align="right" src="https://github.com/scottrigby/scottrigby/assets/407675/f722a625-c6dd-447a-9dc0-27c49f03f114" alt="REDDY 2 START RITE MEOW" title="REDDY 2 START RITE MEOW">
-<br clear="right"/>
+![job announcement social media image-3](https://github.com/user-attachments/assets/089c91f3-2bee-4f20-aff6-129bfc4c1f46)
 
-### Work
+### Other things
+
+- Quick list of [talks with links](https://docs.google.com/document/d/1RvBPFa_3CRi0DeOFlU1GNOzHqmn1NJ5jgA3D-tN4cE0/edit?usp=sharing)
+- Some [things I've written](https://docs.google.com/document/d/1MgSbKdB3dI4lWlzpeg3ON4kFpM8UY60892qhmXKF-Uo/edit?usp=sharing)
+
+### Previously
 - Former Developer Experience [@weaveworks](https://www.weave.works/), DevOps [@codecademy](https://www.codecademy.com/), Principal Engineer & Technical Team Lead [@NBCUniversal](https://www.nbcuniversal.com/). What's next?
-- Check out my [resume](https://docs.google.com/document/d/1DW6DglPUXgqB_x09xFo25B4uo7bxMxVe9I3bY5eHcr4/edit?usp=sharing), a list of [talks with links](https://docs.google.com/document/d/1RvBPFa_3CRi0DeOFlU1GNOzHqmn1NJ5jgA3D-tN4cE0/edit?usp=sharing), and some [technical content samples](https://docs.google.com/document/d/1MgSbKdB3dI4lWlzpeg3ON4kFpM8UY60892qhmXKF-Uo/edit?usp=sharing)
+- All this and more on my [resume](https://docs.google.com/document/d/1DW6DglPUXgqB_x09xFo25B4uo7bxMxVe9I3bY5eHcr4/edit?usp=sharing)
 
 ### Linux Foundation
 - CNCF [Cloud Native Ambassador](https://www.cncf.io/people/ambassadors/)

@@ -3,9 +3,9 @@
 I focus on collaboration, communication, and community engagement. It's fulfilling to help solve real-world problems using open-source tools and forward-thinking projects. I strive to lead by example, smooth the path for people to succeed as a team, and feel proud of our collective efforts.
 
 ### News
-🛰️🌎💻 Big update: I'm thrilled to announce that I’m joining Navteca as a Senior Cloud Solution Architect at NASA Goddard Space Flight Center! In this role, I’ll be helping to manage NASA’s Science Cloud—a vital part of their Open Science initiative.
+🛰️🌎💻 Big update: I'm thrilled to announce that I’m joining Navteca as a Senior Cloud Solution Architect at NASA Goddard Space Flight Center! In this role, I’ll be helping to manage NASA’s Science Cloud—a vital part of their Open Science initiative. [See full post](https://www.linkedin.com/feed/update/urn:li:activity:7224873265075265536/)
 
-![job announcement social media image-3](https://github.com/user-attachments/assets/089c91f3-2bee-4f20-aff6-129bfc4c1f46)
+[![job announcement social media image-3](https://github.com/user-attachments/assets/089c91f3-2bee-4f20-aff6-129bfc4c1f46)](https://www.linkedin.com/feed/update/urn:li:activity:7224873265075265536/)
 
 ### Other things
 
@@ -13,8 +13,8 @@ I focus on collaboration, communication, and community engagement. It's fulfilli
 - Some [things I've written](https://docs.google.com/document/d/1MgSbKdB3dI4lWlzpeg3ON4kFpM8UY60892qhmXKF-Uo/edit?usp=sharing)
 
 ### Previously
-- Former Developer Experience [@weaveworks](https://www.weave.works/), DevOps [@codecademy](https://www.codecademy.com/), Principal Engineer & Technical Team Lead [@NBCUniversal](https://www.nbcuniversal.com/). What's next?
-- All this and more on my [resume](https://docs.google.com/document/d/1DW6DglPUXgqB_x09xFo25B4uo7bxMxVe9I3bY5eHcr4/edit?usp=sharing)
+- Former Developer Experience [@weaveworks](https://www.weave.works/), DevOps [@codecademy](https://www.codecademy.com/), Principal Engineer & Technical Team Lead [@NBCUniversal](https://www.nbcuniversal.com/).
+- More on my [resume](https://docs.google.com/document/d/1DW6DglPUXgqB_x09xFo25B4uo7bxMxVe9I3bY5eHcr4/edit?usp=sharing)
 
 ### Linux Foundation
 - CNCF [Cloud Native Ambassador](https://www.cncf.io/people/ambassadors/)
@@ -23,7 +23,7 @@ I focus on collaboration, communication, and community engagement. It's fulfilli
 - Event organizer ([GitOpsCon](https://events.linuxfoundation.org/cdcon-gitopscon/), [NYC Kubernetes meetup](https://www.meetup.com/new-york-kubernetes-meetup/), [KCD New York](https://community.cncf.io/events/details/cncf-kcd-new-york-presents-kcd-new-york-2024/))
 - Subject Matter Expert for Linux Foundation Certifications ([CKAD](https://training.linuxfoundation.org/certification/certified-kubernetes-application-developer-ckad/) - Certified Kubernetes Application Developer, [CGOA](https://training.linuxfoundation.org/certification/certified-gitops-associate-cgoa/) - Certified GitOps Associate)
 
-### Art
+### Art and social practice
 - Social experiments and productive mischief, open to new collaborations
 - Co-founded [Basekamp](HTTP://basekamp.com) art and research group in 1998
 - Co-created [Plausible Artworlds](https://www.plausibleartworlds.org/) massively collaborative international network

@@ -3,9 +3,7 @@
 I focus on collaboration, communication, and community engagement. It's fulfilling to help solve real-world problems using open-source tools and forward-thinking projects. I strive to lead by example, smooth the path for people to succeed as a team, and feel proud of our collective efforts.
 
 ### News
-🛰️🌎💻 Big update: I'm thrilled to announce that I’m joining Navteca as a Senior Cloud Solution Architect at NASA Goddard Space Flight Center! In this role, I’ll be helping to manage NASA’s Science Cloud—a vital part of their Open Science initiative. [See full post](https://www.linkedin.com/feed/update/urn:li:activity:7224873265075265536/)
-
-[![job announcement social media image-3](https://github.com/user-attachments/assets/089c91f3-2bee-4f20-aff6-129bfc4c1f46)](https://www.linkedin.com/feed/update/urn:li:activity:7224873265075265536/)
+🛰️🌎💻 I'm thrilled to announce that I’m joining Navteca as a Senior Cloud Solution Architect! [See full post](https://www.linkedin.com/feed/update/urn:li:activity:7224873265075265536/)
 
 ### Other things
 

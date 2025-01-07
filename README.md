@@ -3,7 +3,7 @@
 I focus on collaboration, communication, and community engagement. It's fulfilling to help solve real-world problems using open-source tools and forward-thinking projects. I strive to lead by example, smooth the path for people to succeed as a team, and feel proud of our collective efforts.
 
 ### News
-🛰️🌎💻 I'm thrilled to announce that I’m joining Navteca as a Senior Cloud Solution Architect! [See full post](https://www.linkedin.com/feed/update/urn:li:activity:7224873265075265536/)
+🚀 Exciting news to kick off 2025: I’m thrilled to join Replicated with a focus on continuing as a Helm Project Maintainer! ⚓️🎉! [See full post](https://www.linkedin.com/feed/update/urn:li:activity:7282174839598067712/)
 
 ### Other things
 

@@ -11,7 +11,7 @@ I focus on collaboration, communication, and community engagement. It's fulfilli
 - Some [things I've written](https://docs.google.com/document/d/1MgSbKdB3dI4lWlzpeg3ON4kFpM8UY60892qhmXKF-Uo/edit?usp=sharing)
 
 ### Previously
-- Former Developer Experience [@weaveworks](https://www.weave.works/), DevOps [@codecademy](https://www.codecademy.com/), Principal Engineer & Technical Team Lead [@NBCUniversal](https://www.nbcuniversal.com/).
+- Former Cloud Architect [@NASA](https://smce.nasa.gov) / [@navteca](https://www.navteca.com), Developer Experience [@weaveworks](https://www.weave.works/), DevOps [@codecademy](https://www.codecademy.com/), Principal Engineer & Technical Team Lead [@NBCUniversal](https://www.nbcuniversal.com/).
 - More on my [resume](https://docs.google.com/document/d/1DW6DglPUXgqB_x09xFo25B4uo7bxMxVe9I3bY5eHcr4/edit?usp=sharing)
 
 ### Linux Foundation
